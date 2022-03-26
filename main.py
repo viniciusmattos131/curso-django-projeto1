@@ -1,2 +1,2 @@
 print('Oi')
-print('Olá mundo!')
+print('Olá mundo legal!')
